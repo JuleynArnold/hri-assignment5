@@ -1,0 +1,8 @@
+prefix=/home/juleynarnold/hri/install
+
+Name: voice_module
+Description: Description of voice_module
+Version: 1.2.4
+Cflags: 
+Libs: -L/home/juleynarnold/hri/install/lib 
+Requires: 
