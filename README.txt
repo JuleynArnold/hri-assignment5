@@ -1,3 +1,5 @@
+Project Description:
+
 The project is a simple conversational agent between an arduino controller and ROS publisher. A serial connection is established
 utilizing ROSSerial_python an additional module that makes interpretation between the two possible. It takes advantage of the google
 speech recognition libraries and implements its speech to text to draw comparisions between what was thought to be said by the
